@@ -1,4 +1,9 @@
-# LuisaProjekt
+# Description
+
+Angular App for conducting 2-dimensional CRDIs and displaying the captured data.
+
+# Usage
+After starting to pan on the 2-dimonsinal grid the pan will be recorded. After the time has run out the recorded data will be displayed in a graph.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.
 
